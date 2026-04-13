@@ -31,3 +31,29 @@
 ## tile
 
 ![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/d1015dab659eb8d7490fd7ff6d3655966db2bb86/CONTROLNET/tile/00006-1413141461.png)
+
+## lineart
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/lineart/tmpzt8_6ogk.png)
+
+## normalmap
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/normalmap/00012-3334364744.png)
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/normalmap/tmpudocjkad.png)
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/normalmap/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202026-04-13%20144225.png)
+
+## scribble
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/scribble/00007-550357521.png)
+
+## shuffle
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/shuffle/00009-283879411.png)
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/shuffle/00011-906052695.png)
+
+## softedge
+
+![Image](https://raw.githubusercontent.com/Choihyungwook03/AI_Project_2026_01_3B/93fd814c45657e01c0ddb7d29b371fbbcc4df387/CONTROLNET/softedge/00000-3432628369.png)
